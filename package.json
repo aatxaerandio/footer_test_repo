@@ -1,0 +1,25 @@
+{
+  "name": "footer_test_repo",
+  "version": "0.1.0",
+  "description": "This module allows for a dynamic footer to be generated for JS applications with an updated year and name.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aatxaerandio/footer_test_repo.git"
+  },
+  "keywords": [
+    "footer"
+  ],
+  "author": "aatxaerandio <achaerandio2@hotmail.com> (https://github.com/aatxaerandio)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aatxaerandio/footer_test_repo/issues"
+  },
+  "homepage": "https://github.com/aatxaerandio/footer_test_repo#readme",
+  "dependencies": {
+    "moment": "^2.30.1"
+  }
+}
